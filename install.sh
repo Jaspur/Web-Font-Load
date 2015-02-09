@@ -23,3 +23,4 @@ cd ~/Documents/
 rm -f master.tar.gz
 rm -rf goog-fonts
 echo "All Done! All Google Fonts installed."
+echo "And your Adobe Photshop CC will crash from now on."
